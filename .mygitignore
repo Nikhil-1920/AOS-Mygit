@@ -1,0 +1,5 @@
+# MyGit ignore file
+*.o
+*.exe
+mygit
+.DS_Store
